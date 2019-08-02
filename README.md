@@ -12,7 +12,7 @@
 - Mover archivo
 - Renombrar archivo
 - Ver procesos del sistema
-- Listar directorios (filtrar por extensión de archivo .txt)
+- Listar archivos (filtrar por extensión de archivo .txt)
 
 2. Construya una tabla comparativa indicando el comando para asignar los modificadores de acceso de los siguientes archivos/directorios. La tabla debe contener cinco columnas: Permisos propietario, Permisos grupo, Permisos de otros usuarios, Comando notacion texto, Comando notacion numérica
 - Archivo (application.properties) Propietario (lectura, escritura) Grupo (lectura) Otros (lectura)
