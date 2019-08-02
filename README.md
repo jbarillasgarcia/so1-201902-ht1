@@ -14,7 +14,7 @@
 - Ver procesos del sistema
 - Listar archivos (filtrar por extensión de archivo .txt)
 
-2. Construya una tabla comparativa indicando el comando para asignar los modificadores de acceso de los siguientes archivos/directorios. La tabla debe contener cinco columnas: Permisos propietario, Permisos grupo, Permisos de otros usuarios, Comando notacion texto, Comando notacion numérica
+2. Construya una tabla comparativa indicando el comando para asignar los modificadores de acceso de los siguientes archivos/directorios. La tabla debe contener siete columnas: Permisos propietario, Permisos grupo, Permisos de otros usuarios, Comando notacion texto, Comando notacion numérica
 - Archivo (application.properties) Propietario (lectura, escritura) Grupo (lectura) Otros (lectura)
 - Archivo (banner.txt) Propietario (lectura, escritura) Grupo (lectura, escritura) Otros (lectura)
 - Archivo (README.md) Propietario (lectura, escritura) Grupo (lectura) Otros (ninguno)
