@@ -42,10 +42,10 @@
 
 9. Para qué sirve el comando chown? Indique un ejemplo.
 
-10. Qué comando linux utilizaría para reiniciar su servidor Linux exactamente 30 segundos despues de ingresado el comando?
+10. Qué comando linux utilizaría para reiniciar su servidor Linux exactamente 30 segundos después de ingresado el comando?
 
 ## Entrega
 
 - Enviar correo a abarillasg@miumg.edu.gt con el asunto "so1_ht1_noCarne_nombreCompleto", por ejemplo: so1_ht1_1416151290_JosueBarillas.
-- No debe adjuntar ningún archivo. Solamente las respuestas a las respuestas indicadas arriba.
+- No debe adjuntar ningún archivo. Solamente las respuestas a las preguntas indicadas arriba.
 - La hora de entrega es muy importante. Cualquier correo recibido despues de las 11:00 PM del 1 de Agosto no será revisado.
