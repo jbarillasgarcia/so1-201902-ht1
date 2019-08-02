@@ -36,7 +36,7 @@
 
 6. Construya un archivo de script en Windows para eliminar los cinco directorios creados anteriormente. Debe eliminarlos uno por uno desde el mas interno hasta el mas externo.
 
-7. Para qué sirve el comando wget en linux? Cuál es la sintaxis para utilizar dicho comando?
+7. Para qué sirve el comando wget en linux? Cuál es la sintaxis para utilizar dicho comando? Qué sucede si ingreso "wget www.google.com"?
 
 8. Para qué sirve el comando tar en linux? Cuál es la sintaxis correcta para utilizar dicho comando?
 
